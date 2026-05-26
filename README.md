@@ -1,46 +1,63 @@
 # Axis
 
-![Preview Wallpaper](./Skin/@Resources/Images/preview-bg.png)
+Minimal vertical Rainmeter skin inspired by Mond aesthetic.
+
+![Preview Wallpaper](./Skins/Axis/@Resources/Images/preview-bg.png)
 
 Wallpaper: [Evelyn #1](https://steamcommunity.com/sharedfiles/filedetails/?id=3676910198)
 
+---
+
 ## Features
 
-- Vertical minimal layout
-- Dynamic clock
+- Minimal vertical layout
 - Futuristic typography
-- Lightweight setup
+- Lightweight and clean setup
+- Real-time clock display
+- Mond-inspired aesthetic
+
+---
 
 ## Preview
 
-Minimal vertical Rainmeter skin inspired by Mond aesthetic.
+![Preview 1](preview1.png)
 
-![Preview](preview1.png)
-![Preview](preview2.png)
+![Preview 2](preview2.png)
+
+---
 
 ## Installation
 
-1. Install Rainmeter
-2. Move `Axis` into:
+1. Install [Rainmeter](https://www.rainmeter.net/)
+2. Move the `Axis` folder into:
 
 ```text
 Documents\Rainmeter\Skins
 ```
 
+3. Refresh Rainmeter
+4. Load `Axis.ini`
+
+Alternatively, you can install the `.rmskin` package from the **Releases** section.
+
+---
+
 ## Required Fonts
 
-This skin uses the following fonts for the intended aesthetic and layout:
+This skin uses the following fonts for its intended appearance:
 
-- Anurati
-- Quicksand
+- **Anurati**
+- **Quicksand**
 
 All required font files are included in:
 
 ```text
-Skins\@Resources\Fonts
+Skins\Axis\@Resources\Fonts
 ```
 
 Install all fonts before loading the skin to ensure proper rendering.
+
+---
 
 ## Credits
 
