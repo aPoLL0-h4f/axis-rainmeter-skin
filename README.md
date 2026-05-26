@@ -20,9 +20,8 @@ Minimal vertical Rainmeter skin inspired by Mond aesthetic.
 
 1. Install Rainmeter
 2. Move `Axis` into:
-```
 
-```text id="jlwm5l"
+```text
 Documents\Rainmeter\Skins
 ```
 
