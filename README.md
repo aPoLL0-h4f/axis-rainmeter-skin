@@ -21,7 +21,6 @@ Wallpaper: [Evelyn #1](https://steamcommunity.com/sharedfiles/filedetails/?id=36
 ## Preview
 
 ![Preview 1](preview1.png)
-
 ![Preview 2](preview2.png)
 
 ---
